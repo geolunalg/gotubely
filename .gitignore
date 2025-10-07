@@ -2,6 +2,8 @@
 .vscode
 gotubely
 __debug*
+aws
+awscliv2.zip
 
 out
 *.db
